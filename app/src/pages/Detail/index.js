@@ -3,7 +3,7 @@ import { View } from 'react-native';
 
 const Detail = () => {
     return (
-        <View>Detail</View>
+        <View />
     )
 }
 
