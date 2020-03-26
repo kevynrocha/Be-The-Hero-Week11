@@ -1,8 +1,12 @@
 import React from 'react';
 
-function App() {
+import './global.css';
+import Logon from './pages/Logon/index';
+
+const App = () => {
+	
 	return (
-		<h1>Oi</h1>
+		<Logon />
 	);
 }
 
